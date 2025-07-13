@@ -1,0 +1,462 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="A&amp;E FHD">
+    <display-name>A&amp;E FHD</display-name>
+  </channel>
+  <channel id="AMC FHD">
+    <display-name>AMC FHD</display-name>
+  </channel>
+  <channel id="ADULT SWIM HD">
+    <display-name>ADULT SWIM HD</display-name>
+  </channel>
+  <channel id="Discovery Channel HD">
+    <display-name>Discovery Channel HD</display-name>
+  </channel>
+  <channel id="Discovery Channel SD">
+    <display-name>Discovery Channel SD</display-name>
+  </channel>
+  <channel id="Discovery H&amp;H FHD">
+    <display-name>Discovery H&amp;H FHD</display-name>
+  </channel>
+  <channel id="Discovery H&amp;H SD">
+    <display-name>Discovery H&amp;H SD</display-name>
+  </channel>
+  <channel id="Discovery Science HD">
+    <display-name>Discovery Science HD</display-name>
+  </channel>
+  <channel id="Discovery Science SD">
+    <display-name>Discovery Science SD</display-name>
+  </channel>
+  <channel id="Discovery Theater HD">
+    <display-name>Discovery Theater HD</display-name>
+  </channel>
+  <channel id="Discovery Theater FHD">
+    <display-name>Discovery Theater FHD</display-name>
+  </channel>
+  <channel id="Discovery Turbo HD">
+    <display-name>Discovery Turbo HD</display-name>
+  </channel>
+  <channel id="Discovery Turbo FHD">
+    <display-name>Discovery Turbo FHD</display-name>
+  </channel>
+  <channel id="Globo SP">
+    <display-name>Globo SP</display-name>
+  </channel>
+  <channel id="SBT HD">
+    <display-name>SBT HD</display-name>
+  </channel>
+  <channel id="Record TV HD">
+    <display-name>Record TV HD</display-name>
+  </channel>
+  <channel id="Band HD">
+    <display-name>Band HD</display-name>
+  </channel>
+  <programme start="20250713161346 +0000" stop="20250713171346 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Programa Exemplo 1 - A&amp;E FHD</title>
+    <desc lang="pt">Descrição fictícia do programa 1 no canal A&amp;E FHD.</desc>
+  </programme>
+  <programme start="20250713171346 +0000" stop="20250713181346 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Programa Exemplo 2 - A&amp;E FHD</title>
+    <desc lang="pt">Descrição fictícia do programa 2 no canal A&amp;E FHD.</desc>
+  </programme>
+  <programme start="20250713181346 +0000" stop="20250713191346 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Programa Exemplo 3 - A&amp;E FHD</title>
+    <desc lang="pt">Descrição fictícia do programa 3 no canal A&amp;E FHD.</desc>
+  </programme>
+  <programme start="20250713191346 +0000" stop="20250713201346 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Programa Exemplo 4 - A&amp;E FHD</title>
+    <desc lang="pt">Descrição fictícia do programa 4 no canal A&amp;E FHD.</desc>
+  </programme>
+  <programme start="20250713201346 +0000" stop="20250713211346 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Programa Exemplo 5 - A&amp;E FHD</title>
+    <desc lang="pt">Descrição fictícia do programa 5 no canal A&amp;E FHD.</desc>
+  </programme>
+  <programme start="20250713211346 +0000" stop="20250713221346 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Programa Exemplo 6 - A&amp;E FHD</title>
+    <desc lang="pt">Descrição fictícia do programa 6 no canal A&amp;E FHD.</desc>
+  </programme>
+  <programme start="20250713161346 +0000" stop="20250713171346 +0000" channel="AMC FHD">
+    <title lang="pt">Programa Exemplo 1 - AMC FHD</title>
+    <desc lang="pt">Descrição fictícia do programa 1 no canal AMC FHD.</desc>
+  </programme>
+  <programme start="20250713171346 +0000" stop="20250713181346 +0000" channel="AMC FHD">
+    <title lang="pt">Programa Exemplo 2 - AMC FHD</title>
+    <desc lang="pt">Descrição fictícia do programa 2 no canal AMC FHD.</desc>
+  </programme>
+  <programme start="20250713181346 +0000" stop="20250713191346 +0000" channel="AMC FHD">
+    <title lang="pt">Programa Exemplo 3 - AMC FHD</title>
+    <desc lang="pt">Descrição fictícia do programa 3 no canal AMC FHD.</desc>
+  </programme>
+  <programme start="20250713191346 +0000" stop="20250713201346 +0000" channel="AMC FHD">
+    <title lang="pt">Programa Exemplo 4 - AMC FHD</title>
+    <desc lang="pt">Descrição fictícia do programa 4 no canal AMC FHD.</desc>
+  </programme>
+  <programme start="20250713201346 +0000" stop="20250713211346 +0000" channel="AMC FHD">
+    <title lang="pt">Programa Exemplo 5 - AMC FHD</title>
+    <desc lang="pt">Descrição fictícia do programa 5 no canal AMC FHD.</desc>
+  </programme>
+  <programme start="20250713211346 +0000" stop="20250713221346 +0000" channel="AMC FHD">
+    <title lang="pt">Programa Exemplo 6 - AMC FHD</title>
+    <desc lang="pt">Descrição fictícia do programa 6 no canal AMC FHD.</desc>
+  </programme>
+  <programme start="20250713161346 +0000" stop="20250713171346 +0000" channel="ADULT SWIM HD">
+    <title lang="pt">Programa Exemplo 1 - ADULT SWIM HD</title>
+    <desc lang="pt">Descrição fictícia do programa 1 no canal ADULT SWIM HD.</desc>
+  </programme>
+  <programme start="20250713171346 +0000" stop="20250713181346 +0000" channel="ADULT SWIM HD">
+    <title lang="pt">Programa Exemplo 2 - ADULT SWIM HD</title>
+    <desc lang="pt">Descrição fictícia do programa 2 no canal ADULT SWIM HD.</desc>
+  </programme>
+  <programme start="20250713181346 +0000" stop="20250713191346 +0000" channel="ADULT SWIM HD">
+    <title lang="pt">Programa Exemplo 3 - ADULT SWIM HD</title>
+    <desc lang="pt">Descrição fictícia do programa 3 no canal ADULT SWIM HD.</desc>
+  </programme>
+  <programme start="20250713191346 +0000" stop="20250713201346 +0000" channel="ADULT SWIM HD">
+    <title lang="pt">Programa Exemplo 4 - ADULT SWIM HD</title>
+    <desc lang="pt">Descrição fictícia do programa 4 no canal ADULT SWIM HD.</desc>
+  </programme>
+  <programme start="20250713201346 +0000" stop="20250713211346 +0000" channel="ADULT SWIM HD">
+    <title lang="pt">Programa Exemplo 5 - ADULT SWIM HD</title>
+    <desc lang="pt">Descrição fictícia do programa 5 no canal ADULT SWIM HD.</desc>
+  </programme>
+  <programme start="20250713211346 +0000" stop="20250713221346 +0000" channel="ADULT SWIM HD">
+    <title lang="pt">Programa Exemplo 6 - ADULT SWIM HD</title>
+    <desc lang="pt">Descrição fictícia do programa 6 no canal ADULT SWIM HD.</desc>
+  </programme>
+  <programme start="20250713161346 +0000" stop="20250713171346 +0000" channel="Discovery Channel HD">
+    <title lang="pt">Programa Exemplo 1 - Discovery Channel HD</title>
+    <desc lang="pt">Descrição fictícia do programa 1 no canal Discovery Channel HD.</desc>
+  </programme>
+  <programme start="20250713171346 +0000" stop="20250713181346 +0000" channel="Discovery Channel HD">
+    <title lang="pt">Programa Exemplo 2 - Discovery Channel HD</title>
+    <desc lang="pt">Descrição fictícia do programa 2 no canal Discovery Channel HD.</desc>
+  </programme>
+  <programme start="20250713181346 +0000" stop="20250713191346 +0000" channel="Discovery Channel HD">
+    <title lang="pt">Programa Exemplo 3 - Discovery Channel HD</title>
+    <desc lang="pt">Descrição fictícia do programa 3 no canal Discovery Channel HD.</desc>
+  </programme>
+  <programme start="20250713191346 +0000" stop="20250713201346 +0000" channel="Discovery Channel HD">
+    <title lang="pt">Programa Exemplo 4 - Discovery Channel HD</title>
+    <desc lang="pt">Descrição fictícia do programa 4 no canal Discovery Channel HD.</desc>
+  </programme>
+  <programme start="20250713201346 +0000" stop="20250713211346 +0000" channel="Discovery Channel HD">
+    <title lang="pt">Programa Exemplo 5 - Discovery Channel HD</title>
+    <desc lang="pt">Descrição fictícia do programa 5 no canal Discovery Channel HD.</desc>
+  </programme>
+  <programme start="20250713211346 +0000" stop="20250713221346 +0000" channel="Discovery Channel HD">
+    <title lang="pt">Programa Exemplo 6 - Discovery Channel HD</title>
+    <desc lang="pt">Descrição fictícia do programa 6 no canal Discovery Channel HD.</desc>
+  </programme>
+  <programme start="20250713161346 +0000" stop="20250713171346 +0000" channel="Discovery Channel SD">
+    <title lang="pt">Programa Exemplo 1 - Discovery Channel SD</title>
+    <desc lang="pt">Descrição fictícia do programa 1 no canal Discovery Channel SD.</desc>
+  </programme>
+  <programme start="20250713171346 +0000" stop="20250713181346 +0000" channel="Discovery Channel SD">
+    <title lang="pt">Programa Exemplo 2 - Discovery Channel SD</title>
+    <desc lang="pt">Descrição fictícia do programa 2 no canal Discovery Channel SD.</desc>
+  </programme>
+  <programme start="20250713181346 +0000" stop="20250713191346 +0000" channel="Discovery Channel SD">
+    <title lang="pt">Programa Exemplo 3 - Discovery Channel SD</title>
+    <desc lang="pt">Descrição fictícia do programa 3 no canal Discovery Channel SD.</desc>
+  </programme>
+  <programme start="20250713191346 +0000" stop="20250713201346 +0000" channel="Discovery Channel SD">
+    <title lang="pt">Programa Exemplo 4 - Discovery Channel SD</title>
+    <desc lang="pt">Descrição fictícia do programa 4 no canal Discovery Channel SD.</desc>
+  </programme>
+  <programme start="20250713201346 +0000" stop="20250713211346 +0000" channel="Discovery Channel SD">
+    <title lang="pt">Programa Exemplo 5 - Discovery Channel SD</title>
+    <desc lang="pt">Descrição fictícia do programa 5 no canal Discovery Channel SD.</desc>
+  </programme>
+  <programme start="20250713211346 +0000" stop="20250713221346 +0000" channel="Discovery Channel SD">
+    <title lang="pt">Programa Exemplo 6 - Discovery Channel SD</title>
+    <desc lang="pt">Descrição fictícia do programa 6 no canal Discovery Channel SD.</desc>
+  </programme>
+  <programme start="20250713161346 +0000" stop="20250713171346 +0000" channel="Discovery H&amp;H FHD">
+    <title lang="pt">Programa Exemplo 1 - Discovery H&amp;H FHD</title>
+    <desc lang="pt">Descrição fictícia do programa 1 no canal Discovery H&amp;H FHD.</desc>
+  </programme>
+  <programme start="20250713171346 +0000" stop="20250713181346 +0000" channel="Discovery H&amp;H FHD">
+    <title lang="pt">Programa Exemplo 2 - Discovery H&amp;H FHD</title>
+    <desc lang="pt">Descrição fictícia do programa 2 no canal Discovery H&amp;H FHD.</desc>
+  </programme>
+  <programme start="20250713181346 +0000" stop="20250713191346 +0000" channel="Discovery H&amp;H FHD">
+    <title lang="pt">Programa Exemplo 3 - Discovery H&amp;H FHD</title>
+    <desc lang="pt">Descrição fictícia do programa 3 no canal Discovery H&amp;H FHD.</desc>
+  </programme>
+  <programme start="20250713191346 +0000" stop="20250713201346 +0000" channel="Discovery H&amp;H FHD">
+    <title lang="pt">Programa Exemplo 4 - Discovery H&amp;H FHD</title>
+    <desc lang="pt">Descrição fictícia do programa 4 no canal Discovery H&amp;H FHD.</desc>
+  </programme>
+  <programme start="20250713201346 +0000" stop="20250713211346 +0000" channel="Discovery H&amp;H FHD">
+    <title lang="pt">Programa Exemplo 5 - Discovery H&amp;H FHD</title>
+    <desc lang="pt">Descrição fictícia do programa 5 no canal Discovery H&amp;H FHD.</desc>
+  </programme>
+  <programme start="20250713211346 +0000" stop="20250713221346 +0000" channel="Discovery H&amp;H FHD">
+    <title lang="pt">Programa Exemplo 6 - Discovery H&amp;H FHD</title>
+    <desc lang="pt">Descrição fictícia do programa 6 no canal Discovery H&amp;H FHD.</desc>
+  </programme>
+  <programme start="20250713161346 +0000" stop="20250713171346 +0000" channel="Discovery H&amp;H SD">
+    <title lang="pt">Programa Exemplo 1 - Discovery H&amp;H SD</title>
+    <desc lang="pt">Descrição fictícia do programa 1 no canal Discovery H&amp;H SD.</desc>
+  </programme>
+  <programme start="20250713171346 +0000" stop="20250713181346 +0000" channel="Discovery H&amp;H SD">
+    <title lang="pt">Programa Exemplo 2 - Discovery H&amp;H SD</title>
+    <desc lang="pt">Descrição fictícia do programa 2 no canal Discovery H&amp;H SD.</desc>
+  </programme>
+  <programme start="20250713181346 +0000" stop="20250713191346 +0000" channel="Discovery H&amp;H SD">
+    <title lang="pt">Programa Exemplo 3 - Discovery H&amp;H SD</title>
+    <desc lang="pt">Descrição fictícia do programa 3 no canal Discovery H&amp;H SD.</desc>
+  </programme>
+  <programme start="20250713191346 +0000" stop="20250713201346 +0000" channel="Discovery H&amp;H SD">
+    <title lang="pt">Programa Exemplo 4 - Discovery H&amp;H SD</title>
+    <desc lang="pt">Descrição fictícia do programa 4 no canal Discovery H&amp;H SD.</desc>
+  </programme>
+  <programme start="20250713201346 +0000" stop="20250713211346 +0000" channel="Discovery H&amp;H SD">
+    <title lang="pt">Programa Exemplo 5 - Discovery H&amp;H SD</title>
+    <desc lang="pt">Descrição fictícia do programa 5 no canal Discovery H&amp;H SD.</desc>
+  </programme>
+  <programme start="20250713211346 +0000" stop="20250713221346 +0000" channel="Discovery H&amp;H SD">
+    <title lang="pt">Programa Exemplo 6 - Discovery H&amp;H SD</title>
+    <desc lang="pt">Descrição fictícia do programa 6 no canal Discovery H&amp;H SD.</desc>
+  </programme>
+  <programme start="20250713161346 +0000" stop="20250713171346 +0000" channel="Discovery Science HD">
+    <title lang="pt">Programa Exemplo 1 - Discovery Science HD</title>
+    <desc lang="pt">Descrição fictícia do programa 1 no canal Discovery Science HD.</desc>
+  </programme>
+  <programme start="20250713171346 +0000" stop="20250713181346 +0000" channel="Discovery Science HD">
+    <title lang="pt">Programa Exemplo 2 - Discovery Science HD</title>
+    <desc lang="pt">Descrição fictícia do programa 2 no canal Discovery Science HD.</desc>
+  </programme>
+  <programme start="20250713181346 +0000" stop="20250713191346 +0000" channel="Discovery Science HD">
+    <title lang="pt">Programa Exemplo 3 - Discovery Science HD</title>
+    <desc lang="pt">Descrição fictícia do programa 3 no canal Discovery Science HD.</desc>
+  </programme>
+  <programme start="20250713191346 +0000" stop="20250713201346 +0000" channel="Discovery Science HD">
+    <title lang="pt">Programa Exemplo 4 - Discovery Science HD</title>
+    <desc lang="pt">Descrição fictícia do programa 4 no canal Discovery Science HD.</desc>
+  </programme>
+  <programme start="20250713201346 +0000" stop="20250713211346 +0000" channel="Discovery Science HD">
+    <title lang="pt">Programa Exemplo 5 - Discovery Science HD</title>
+    <desc lang="pt">Descrição fictícia do programa 5 no canal Discovery Science HD.</desc>
+  </programme>
+  <programme start="20250713211346 +0000" stop="20250713221346 +0000" channel="Discovery Science HD">
+    <title lang="pt">Programa Exemplo 6 - Discovery Science HD</title>
+    <desc lang="pt">Descrição fictícia do programa 6 no canal Discovery Science HD.</desc>
+  </programme>
+  <programme start="20250713161346 +0000" stop="20250713171346 +0000" channel="Discovery Science SD">
+    <title lang="pt">Programa Exemplo 1 - Discovery Science SD</title>
+    <desc lang="pt">Descrição fictícia do programa 1 no canal Discovery Science SD.</desc>
+  </programme>
+  <programme start="20250713171346 +0000" stop="20250713181346 +0000" channel="Discovery Science SD">
+    <title lang="pt">Programa Exemplo 2 - Discovery Science SD</title>
+    <desc lang="pt">Descrição fictícia do programa 2 no canal Discovery Science SD.</desc>
+  </programme>
+  <programme start="20250713181346 +0000" stop="20250713191346 +0000" channel="Discovery Science SD">
+    <title lang="pt">Programa Exemplo 3 - Discovery Science SD</title>
+    <desc lang="pt">Descrição fictícia do programa 3 no canal Discovery Science SD.</desc>
+  </programme>
+  <programme start="20250713191346 +0000" stop="20250713201346 +0000" channel="Discovery Science SD">
+    <title lang="pt">Programa Exemplo 4 - Discovery Science SD</title>
+    <desc lang="pt">Descrição fictícia do programa 4 no canal Discovery Science SD.</desc>
+  </programme>
+  <programme start="20250713201346 +0000" stop="20250713211346 +0000" channel="Discovery Science SD">
+    <title lang="pt">Programa Exemplo 5 - Discovery Science SD</title>
+    <desc lang="pt">Descrição fictícia do programa 5 no canal Discovery Science SD.</desc>
+  </programme>
+  <programme start="20250713211346 +0000" stop="20250713221346 +0000" channel="Discovery Science SD">
+    <title lang="pt">Programa Exemplo 6 - Discovery Science SD</title>
+    <desc lang="pt">Descrição fictícia do programa 6 no canal Discovery Science SD.</desc>
+  </programme>
+  <programme start="20250713161346 +0000" stop="20250713171346 +0000" channel="Discovery Theater HD">
+    <title lang="pt">Programa Exemplo 1 - Discovery Theater HD</title>
+    <desc lang="pt">Descrição fictícia do programa 1 no canal Discovery Theater HD.</desc>
+  </programme>
+  <programme start="20250713171346 +0000" stop="20250713181346 +0000" channel="Discovery Theater HD">
+    <title lang="pt">Programa Exemplo 2 - Discovery Theater HD</title>
+    <desc lang="pt">Descrição fictícia do programa 2 no canal Discovery Theater HD.</desc>
+  </programme>
+  <programme start="20250713181346 +0000" stop="20250713191346 +0000" channel="Discovery Theater HD">
+    <title lang="pt">Programa Exemplo 3 - Discovery Theater HD</title>
+    <desc lang="pt">Descrição fictícia do programa 3 no canal Discovery Theater HD.</desc>
+  </programme>
+  <programme start="20250713191346 +0000" stop="20250713201346 +0000" channel="Discovery Theater HD">
+    <title lang="pt">Programa Exemplo 4 - Discovery Theater HD</title>
+    <desc lang="pt">Descrição fictícia do programa 4 no canal Discovery Theater HD.</desc>
+  </programme>
+  <programme start="20250713201346 +0000" stop="20250713211346 +0000" channel="Discovery Theater HD">
+    <title lang="pt">Programa Exemplo 5 - Discovery Theater HD</title>
+    <desc lang="pt">Descrição fictícia do programa 5 no canal Discovery Theater HD.</desc>
+  </programme>
+  <programme start="20250713211346 +0000" stop="20250713221346 +0000" channel="Discovery Theater HD">
+    <title lang="pt">Programa Exemplo 6 - Discovery Theater HD</title>
+    <desc lang="pt">Descrição fictícia do programa 6 no canal Discovery Theater HD.</desc>
+  </programme>
+  <programme start="20250713161346 +0000" stop="20250713171346 +0000" channel="Discovery Theater FHD">
+    <title lang="pt">Programa Exemplo 1 - Discovery Theater FHD</title>
+    <desc lang="pt">Descrição fictícia do programa 1 no canal Discovery Theater FHD.</desc>
+  </programme>
+  <programme start="20250713171346 +0000" stop="20250713181346 +0000" channel="Discovery Theater FHD">
+    <title lang="pt">Programa Exemplo 2 - Discovery Theater FHD</title>
+    <desc lang="pt">Descrição fictícia do programa 2 no canal Discovery Theater FHD.</desc>
+  </programme>
+  <programme start="20250713181346 +0000" stop="20250713191346 +0000" channel="Discovery Theater FHD">
+    <title lang="pt">Programa Exemplo 3 - Discovery Theater FHD</title>
+    <desc lang="pt">Descrição fictícia do programa 3 no canal Discovery Theater FHD.</desc>
+  </programme>
+  <programme start="20250713191346 +0000" stop="20250713201346 +0000" channel="Discovery Theater FHD">
+    <title lang="pt">Programa Exemplo 4 - Discovery Theater FHD</title>
+    <desc lang="pt">Descrição fictícia do programa 4 no canal Discovery Theater FHD.</desc>
+  </programme>
+  <programme start="20250713201346 +0000" stop="20250713211346 +0000" channel="Discovery Theater FHD">
+    <title lang="pt">Programa Exemplo 5 - Discovery Theater FHD</title>
+    <desc lang="pt">Descrição fictícia do programa 5 no canal Discovery Theater FHD.</desc>
+  </programme>
+  <programme start="20250713211346 +0000" stop="20250713221346 +0000" channel="Discovery Theater FHD">
+    <title lang="pt">Programa Exemplo 6 - Discovery Theater FHD</title>
+    <desc lang="pt">Descrição fictícia do programa 6 no canal Discovery Theater FHD.</desc>
+  </programme>
+  <programme start="20250713161346 +0000" stop="20250713171346 +0000" channel="Discovery Turbo HD">
+    <title lang="pt">Programa Exemplo 1 - Discovery Turbo HD</title>
+    <desc lang="pt">Descrição fictícia do programa 1 no canal Discovery Turbo HD.</desc>
+  </programme>
+  <programme start="20250713171346 +0000" stop="20250713181346 +0000" channel="Discovery Turbo HD">
+    <title lang="pt">Programa Exemplo 2 - Discovery Turbo HD</title>
+    <desc lang="pt">Descrição fictícia do programa 2 no canal Discovery Turbo HD.</desc>
+  </programme>
+  <programme start="20250713181346 +0000" stop="20250713191346 +0000" channel="Discovery Turbo HD">
+    <title lang="pt">Programa Exemplo 3 - Discovery Turbo HD</title>
+    <desc lang="pt">Descrição fictícia do programa 3 no canal Discovery Turbo HD.</desc>
+  </programme>
+  <programme start="20250713191346 +0000" stop="20250713201346 +0000" channel="Discovery Turbo HD">
+    <title lang="pt">Programa Exemplo 4 - Discovery Turbo HD</title>
+    <desc lang="pt">Descrição fictícia do programa 4 no canal Discovery Turbo HD.</desc>
+  </programme>
+  <programme start="20250713201346 +0000" stop="20250713211346 +0000" channel="Discovery Turbo HD">
+    <title lang="pt">Programa Exemplo 5 - Discovery Turbo HD</title>
+    <desc lang="pt">Descrição fictícia do programa 5 no canal Discovery Turbo HD.</desc>
+  </programme>
+  <programme start="20250713211346 +0000" stop="20250713221346 +0000" channel="Discovery Turbo HD">
+    <title lang="pt">Programa Exemplo 6 - Discovery Turbo HD</title>
+    <desc lang="pt">Descrição fictícia do programa 6 no canal Discovery Turbo HD.</desc>
+  </programme>
+  <programme start="20250713161346 +0000" stop="20250713171346 +0000" channel="Discovery Turbo FHD">
+    <title lang="pt">Programa Exemplo 1 - Discovery Turbo FHD</title>
+    <desc lang="pt">Descrição fictícia do programa 1 no canal Discovery Turbo FHD.</desc>
+  </programme>
+  <programme start="20250713171346 +0000" stop="20250713181346 +0000" channel="Discovery Turbo FHD">
+    <title lang="pt">Programa Exemplo 2 - Discovery Turbo FHD</title>
+    <desc lang="pt">Descrição fictícia do programa 2 no canal Discovery Turbo FHD.</desc>
+  </programme>
+  <programme start="20250713181346 +0000" stop="20250713191346 +0000" channel="Discovery Turbo FHD">
+    <title lang="pt">Programa Exemplo 3 - Discovery Turbo FHD</title>
+    <desc lang="pt">Descrição fictícia do programa 3 no canal Discovery Turbo FHD.</desc>
+  </programme>
+  <programme start="20250713191346 +0000" stop="20250713201346 +0000" channel="Discovery Turbo FHD">
+    <title lang="pt">Programa Exemplo 4 - Discovery Turbo FHD</title>
+    <desc lang="pt">Descrição fictícia do programa 4 no canal Discovery Turbo FHD.</desc>
+  </programme>
+  <programme start="20250713201346 +0000" stop="20250713211346 +0000" channel="Discovery Turbo FHD">
+    <title lang="pt">Programa Exemplo 5 - Discovery Turbo FHD</title>
+    <desc lang="pt">Descrição fictícia do programa 5 no canal Discovery Turbo FHD.</desc>
+  </programme>
+  <programme start="20250713211346 +0000" stop="20250713221346 +0000" channel="Discovery Turbo FHD">
+    <title lang="pt">Programa Exemplo 6 - Discovery Turbo FHD</title>
+    <desc lang="pt">Descrição fictícia do programa 6 no canal Discovery Turbo FHD.</desc>
+  </programme>
+  <programme start="20250713161346 +0000" stop="20250713171346 +0000" channel="Globo SP">
+    <title lang="pt">Programa Exemplo 1 - Globo SP</title>
+    <desc lang="pt">Descrição fictícia do programa 1 no canal Globo SP.</desc>
+  </programme>
+  <programme start="20250713171346 +0000" stop="20250713181346 +0000" channel="Globo SP">
+    <title lang="pt">Programa Exemplo 2 - Globo SP</title>
+    <desc lang="pt">Descrição fictícia do programa 2 no canal Globo SP.</desc>
+  </programme>
+  <programme start="20250713181346 +0000" stop="20250713191346 +0000" channel="Globo SP">
+    <title lang="pt">Programa Exemplo 3 - Globo SP</title>
+    <desc lang="pt">Descrição fictícia do programa 3 no canal Globo SP.</desc>
+  </programme>
+  <programme start="20250713191346 +0000" stop="20250713201346 +0000" channel="Globo SP">
+    <title lang="pt">Programa Exemplo 4 - Globo SP</title>
+    <desc lang="pt">Descrição fictícia do programa 4 no canal Globo SP.</desc>
+  </programme>
+  <programme start="20250713201346 +0000" stop="20250713211346 +0000" channel="Globo SP">
+    <title lang="pt">Programa Exemplo 5 - Globo SP</title>
+    <desc lang="pt">Descrição fictícia do programa 5 no canal Globo SP.</desc>
+  </programme>
+  <programme start="20250713211346 +0000" stop="20250713221346 +0000" channel="Globo SP">
+    <title lang="pt">Programa Exemplo 6 - Globo SP</title>
+    <desc lang="pt">Descrição fictícia do programa 6 no canal Globo SP.</desc>
+  </programme>
+  <programme start="20250713161346 +0000" stop="20250713171346 +0000" channel="SBT HD">
+    <title lang="pt">Programa Exemplo 1 - SBT HD</title>
+    <desc lang="pt">Descrição fictícia do programa 1 no canal SBT HD.</desc>
+  </programme>
+  <programme start="20250713171346 +0000" stop="20250713181346 +0000" channel="SBT HD">
+    <title lang="pt">Programa Exemplo 2 - SBT HD</title>
+    <desc lang="pt">Descrição fictícia do programa 2 no canal SBT HD.</desc>
+  </programme>
+  <programme start="20250713181346 +0000" stop="20250713191346 +0000" channel="SBT HD">
+    <title lang="pt">Programa Exemplo 3 - SBT HD</title>
+    <desc lang="pt">Descrição fictícia do programa 3 no canal SBT HD.</desc>
+  </programme>
+  <programme start="20250713191346 +0000" stop="20250713201346 +0000" channel="SBT HD">
+    <title lang="pt">Programa Exemplo 4 - SBT HD</title>
+    <desc lang="pt">Descrição fictícia do programa 4 no canal SBT HD.</desc>
+  </programme>
+  <programme start="20250713201346 +0000" stop="20250713211346 +0000" channel="SBT HD">
+    <title lang="pt">Programa Exemplo 5 - SBT HD</title>
+    <desc lang="pt">Descrição fictícia do programa 5 no canal SBT HD.</desc>
+  </programme>
+  <programme start="20250713211346 +0000" stop="20250713221346 +0000" channel="SBT HD">
+    <title lang="pt">Programa Exemplo 6 - SBT HD</title>
+    <desc lang="pt">Descrição fictícia do programa 6 no canal SBT HD.</desc>
+  </programme>
+  <programme start="20250713161346 +0000" stop="20250713171346 +0000" channel="Record TV HD">
+    <title lang="pt">Programa Exemplo 1 - Record TV HD</title>
+    <desc lang="pt">Descrição fictícia do programa 1 no canal Record TV HD.</desc>
+  </programme>
+  <programme start="20250713171346 +0000" stop="20250713181346 +0000" channel="Record TV HD">
+    <title lang="pt">Programa Exemplo 2 - Record TV HD</title>
+    <desc lang="pt">Descrição fictícia do programa 2 no canal Record TV HD.</desc>
+  </programme>
+  <programme start="20250713181346 +0000" stop="20250713191346 +0000" channel="Record TV HD">
+    <title lang="pt">Programa Exemplo 3 - Record TV HD</title>
+    <desc lang="pt">Descrição fictícia do programa 3 no canal Record TV HD.</desc>
+  </programme>
+  <programme start="20250713191346 +0000" stop="20250713201346 +0000" channel="Record TV HD">
+    <title lang="pt">Programa Exemplo 4 - Record TV HD</title>
+    <desc lang="pt">Descrição fictícia do programa 4 no canal Record TV HD.</desc>
+  </programme>
+  <programme start="20250713201346 +0000" stop="20250713211346 +0000" channel="Record TV HD">
+    <title lang="pt">Programa Exemplo 5 - Record TV HD</title>
+    <desc lang="pt">Descrição fictícia do programa 5 no canal Record TV HD.</desc>
+  </programme>
+  <programme start="20250713211346 +0000" stop="20250713221346 +0000" channel="Record TV HD">
+    <title lang="pt">Programa Exemplo 6 - Record TV HD</title>
+    <desc lang="pt">Descrição fictícia do programa 6 no canal Record TV HD.</desc>
+  </programme>
+  <programme start="20250713161346 +0000" stop="20250713171346 +0000" channel="Band HD">
+    <title lang="pt">Programa Exemplo 1 - Band HD</title>
+    <desc lang="pt">Descrição fictícia do programa 1 no canal Band HD.</desc>
+  </programme>
+  <programme start="20250713171346 +0000" stop="20250713181346 +0000" channel="Band HD">
+    <title lang="pt">Programa Exemplo 2 - Band HD</title>
+    <desc lang="pt">Descrição fictícia do programa 2 no canal Band HD.</desc>
+  </programme>
+  <programme start="20250713181346 +0000" stop="20250713191346 +0000" channel="Band HD">
+    <title lang="pt">Programa Exemplo 3 - Band HD</title>
+    <desc lang="pt">Descrição fictícia do programa 3 no canal Band HD.</desc>
+  </programme>
+  <programme start="20250713191346 +0000" stop="20250713201346 +0000" channel="Band HD">
+    <title lang="pt">Programa Exemplo 4 - Band HD</title>
+    <desc lang="pt">Descrição fictícia do programa 4 no canal Band HD.</desc>
+  </programme>
+  <programme start="20250713201346 +0000" stop="20250713211346 +0000" channel="Band HD">
+    <title lang="pt">Programa Exemplo 5 - Band HD</title>
+    <desc lang="pt">Descrição fictícia do programa 5 no canal Band HD.</desc>
+  </programme>
+  <programme start="20250713211346 +0000" stop="20250713221346 +0000" channel="Band HD">
+    <title lang="pt">Programa Exemplo 6 - Band HD</title>
+    <desc lang="pt">Descrição fictícia do programa 6 no canal Band HD.</desc>
+  </programme>
+</tv>
